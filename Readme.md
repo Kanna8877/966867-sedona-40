@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Анна Кривцова](https://up.htmlacademy.ru/htmlcss/40/user/966867).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон Варнавский](https://htmlacademy.ru/profile/anton_varnauski).
 
 ---
 
