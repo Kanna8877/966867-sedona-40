@@ -2,7 +2,7 @@
 
 * Студент: [Анна Кривцова](https://up.htmlacademy.ru/htmlcss/40/user/966867).
 * Наставник: [Антон Варнавский](https://htmlacademy.ru/profile/anton_varnauski).
-
+* Сайт: [Проект Седона](https://kanna8877.github.io/966867-sedona-40/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
